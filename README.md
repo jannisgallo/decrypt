@@ -1,1 +1,1 @@
-# decrypt arami
+# decrypt aramido
